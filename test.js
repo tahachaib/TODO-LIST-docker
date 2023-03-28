@@ -1,0 +1,5 @@
+fr
+hg
+HashChangeEvent
+
+gg 
